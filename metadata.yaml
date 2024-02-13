@@ -1,0 +1,31 @@
+_repo: Valkoinen-ja-musta_72727
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Korhonen, Veikko
+    alias: Korhonen, Veikko Matias
+    birthdate: 1888
+    deathdate: 1942
+    gutenberg_agent_id: '56035'
+    url: http://www.gutenberg.org/2009/agents/56035
+    wikipedia: https://fi.wikipedia.org/wiki/Veikko_Korhonen
+description: ''
+gutenberg_issued: '2024-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72727'
+language: fi
+pgterms:marc905: 20230507092012korhonen
+pgterms:marc906: '1920'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bEdistysseurojen Kustannus Oy, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: Valkoinen ja musta
+url: http://www.gutenberg.org/ebooks/72727
