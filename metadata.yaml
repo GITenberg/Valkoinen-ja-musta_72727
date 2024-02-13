@@ -1,5 +1,8 @@
 _repo: Valkoinen-ja-musta_72727
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Korhonen, Veikko
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56035
     wikipedia: https://fi.wikipedia.org/wiki/Veikko_Korhonen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72727#Valkoinen-ja-musta
 gutenberg_issued: '2024-01-15'
 gutenberg_type: Text
 identifiers:
